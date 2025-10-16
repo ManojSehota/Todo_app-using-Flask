@@ -1,1 +1,1 @@
-# Todo_app-using-Flask
+Developed a To-Do web application using the Flask framework, where users can add, update, and delete tasks. The app includes fields for title and description, and stores data using SQLite for persistence.
